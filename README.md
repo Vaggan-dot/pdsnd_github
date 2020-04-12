@@ -1,8 +1,8 @@
 ### Date created
-11/04/2020
+12/04/2020
 
 ### Project Title
-Explore US Bikeshare Data
+Explore Bikeshare Data in US cities
 
 ### Description
 This project aims to give answers on user queries related to bikeshare data in the US.
