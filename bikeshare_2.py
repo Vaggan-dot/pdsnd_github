@@ -44,7 +44,7 @@ def get_filters():
         if day in days:
             break
         else :
-            print("Oh, we don't have data for the city you asked for. Please try again.")
+            print("Oh, we don't have any data for the city you asked for. Please try again.")
 
     print('-'*40)
     return city, month, day
